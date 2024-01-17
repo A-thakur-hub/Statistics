@@ -14,6 +14,6 @@ The project is organized into multiple notebook files, each addressing a differe
 Thorough insights, detailed methodologies, and key findings are documented in the Report.pdf file. I invite you to delve into the report to gain a deeper understanding of our journey and the significant discoveries made.
 
 ## How to Use
-Feel free to explore the notebook files to understand specific aspects of the analysis. For a comprehensive overview, refer to the [Diabates_Analysis.pdf](Diabetics/Diabetes_Analysis.pdf).
+Feel free to explore the notebook files to understand specific aspects of the analysis. For a comprehensive overview, refer to the [Diabates_Analysis.pdf](https://github.com/A-thakur-hub/Statistics/blob/main/Diabetics/Diabetes_Analysis.pdf).
 
 
